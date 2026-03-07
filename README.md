@@ -49,3 +49,5 @@ Para desarrollar la solución se siguieron los siguientes pasos:
   - ChromeDriver
 
 ## Resultado descarga Test 
+
+![Test](bdd-java/images/pruebaLab.png)
